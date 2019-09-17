@@ -6,7 +6,9 @@ Short (~200 word) description of the protocol specification.
 
 ## Version history:
 
-- [Link to version](Version number)
+| Version | Block   | Link   |
+| ------- | ------- | ------ |
+| 1       | 1234567 | [.](.) |
 
 ## Motivation
 
